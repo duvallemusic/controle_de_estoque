@@ -1,0 +1,14 @@
+{
+  "carlos": {
+    "quantidade": 10,
+    "preço": 9.99
+  },
+  "lapis": {
+    "quantidade": 5,
+    "preço": 5.0
+  },
+  "borracha": {
+    "quantidade": 344,
+    "preço": 3.55
+  }
+}
